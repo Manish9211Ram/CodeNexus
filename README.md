@@ -1,5 +1,4 @@
-# CodeNexus
- FinoTalk – AI-Powered Financial Chatbot 
+# FinoTalk – AI-Powered Financial Chatbot 
  FinoTalk is an advanced desktop application designed to simplify financial decision-making with the power of AI. It provides accurate, real-time answers to financial queries, making complex economic terms, tax laws, and investment options easy to understand.
 
 Key Features:
